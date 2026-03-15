@@ -15,14 +15,9 @@
 
 ## Olá! Eu sou o Diogo 👋
 
-Desenvolvedor Fullstack com 4 anos de experiência em sistemas corporativos de alta 
-complexidade. Vivo na interseção entre backend robusto e frontend que as pessoas 
-realmente gostam de usar.
+Desenvolvedor Fullstack com 4 anos de experiência em sistemas corporativos de alta complexidade. Vivo na interseção entre backend robusto e frontend que as pessoas realmente gostam de usar.
 
-Passei por integrações financeiras em produção, sistemas de e-procurement, 
-dashboards de BI com centenas de milhares de registros e uma passagem como 
-Tech Lead liderando um time de 9 devs — da qual aprendi muito e decidi que 
-prefiro codar.
+Passei por integrações financeiras em produção com bancos e fintechs, sistemas de e-procurement, microsserviços para empresas de médio e grande porte, dashboards de BI sobre bases com centenas de milhares de registros — e uma passagem como Tech Lead liderando um time de 9 devs, da qual aprendi muito e decidi que prefiro codar.
 
 ---
 
@@ -30,63 +25,46 @@ prefiro codar.
 
 <div align="center">
 
-
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-
-
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-
-
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 🚀 Projetos em destaque
 
-Estou construindo POCs para expandir meu repertório em:
+### [Fintrack](https://github.com/Dibimo/fintrack)
+Sistema de gestão financeira pessoal fullstack — monorepo com backend em **.NET 10** seguindo **Clean Architecture + CQRS** e frontend em **React 19**. Inclui autenticação JWT, isolamento de dados por usuário via Global Query Filters, Value Objects no domínio e geração automática de clientes HTTP a partir do contrato OpenAPI via Orval.
+
+### [poc-tanstack-table](https://github.com/Dibimo/poc-tanstack-table)
+POC desenvolvida para avaliar o **TanStack Table** como alternativa ao Tabulator.js, que não oferecia suporte prático a paginação infinita. Implementa uma `DataTable` genérica com **Vue 3**, células customizáveis, pinning de colunas e infinite scroll via diretiva Vue customizada + TanStack Query. A lib foi adotada no trabalho após essa avaliação.
+
+### [poc-testes-unitarios-vue](https://github.com/Dibimo/poc-testes-unitarios-vue)
+Estudo de testes unitários em **Vue 3** com Vitest e Vue Test Utils — documentação prática de como testar componentes, composables e lógica reativa.
+
+---
+
+## 🧭 Como eu penso sobre código
+
+Código não deve ser complicado, embora possa ser complexo — essa distinção importa. A complexidade às vezes é inerente ao domínio e não tem como escapar dela; a complicação é sempre uma escolha, geralmente ruim. Na prática isso se traduz em nomes que dispensam comentário, componentes com responsabilidade única e soluções que fazem exatamente o que precisam fazer, sem mais. Navalha de Occam aplicada ao software.
+
+---
+
+## 📚 Expandindo o repertório
+
+POCs em andamento para aprofundar conhecimentos que já uso pontualmente na prática:
 
 - 🐇 **RabbitMQ** — mensageria e comunicação assíncrona entre serviços
 - ⚡ **Redis** — cache distribuído e otimização de performance
-- 🍃 **MongoDB** — modelagem e consultas em bancos de dados NoSQL
+- 🍃 **MongoDB** — modelagem e consultas em bancos NoSQL
 
 ---
 
