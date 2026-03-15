@@ -75,6 +75,14 @@ POCs em andamento para aprofundar conhecimentos que já uso pontualmente na prá
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibimo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibimo/Dibimo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dibimo/Dibimo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Dibimo/Dibimo/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
